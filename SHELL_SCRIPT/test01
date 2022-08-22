@@ -1,0 +1,4 @@
+#!/bin/atom
+#this is show you date and who logged in
+date
+who
