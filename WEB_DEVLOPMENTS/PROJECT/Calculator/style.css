@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+
+:root {
+    --background: #e1e1e9;
+    --calc-background: #e7e8ee;
+    --calc-shadow: 30px 30px 55px #CCC;
+    --num-background: linear-gradient(to bottom right, #c0c5d1, #edeef5);
+    --num-shadow: inset 2px 2px 3px #ebebf3, inset 4px 4px 15px #cacfd6, 3px 3px 12px #c2c7d4;
+    --eql-background: linear-gradient(to bottom right, #d36d12, #ed9d1e);
+    --eql-shadow: inset 1px 1px 3px #f98500, inset 4px 4px 15px #b35300, inset -1px -1px 3px #cc6308, 3px 3px 5px #c2c7d4;
+    --c-background: linear-gradient(to bottom right, #8b94a1, #eff0f7);
+    --c-shadow: inset 1px 1px 1px #c8ced9, inset 2px 2px 8px #cacfd6, inset -2px -2px 3px #b4bbc7, 3px 3px 12px #c2c7d4;
+    --font-color: #222;
+    --mode-bk: #0025;
+}
+
+[data-theme="dark"] {
+    --calc-background: #1e212a;
+    --calc-shadow: 30px 30px 55px #888;
+    --num-background: linear-gradient(to bottom right, #292d38, #3c3c44);
+    --num-shadow: inset 1px 1px 1px #393c4a, inset 4px 4px 15px #20232d, 3px 3px 5px #181b24;
+    --eql-shadow: inset 1px 1px 2px #f9aa2d99, inset 4px 4px 15px #a54e04, 3px 3px 5px #181b24;
+    --c-background: linear-gradient(to bottom right, #494f5c, #6f7587);
+    --c-shadow: inset 1px 1px 1px #656b7b, inset 4px 4px 15px #333942, 3px 3px 5px #181b24;
+    --font-color: #FFF;
+    --mode-bk: #FFF2;
+}
+
+html,body{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif; 
+    background-image: url('img3.jpg');
+    background-color: gray;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 300;
+
+}
+.calculator{
+   height: 48vh;
+   width: 15vw;
+   border-radius: 10px;
+   background-image: linear-gradient(orange,white,green); 
+  
+   display: flex;
+   justify-content: center;
+   position: absolute;
+   top: 61%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
+.text-center{
+    text-align: center;
+    color: solid black;
+    padding: 10px;
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+
+.button{
+width: 60px;
+padding: 20px;
+margin: 0 1.5px;
+border: 1.8px solid black;
+border-radius: 8px;
+cursor: pointer;
+font-family: Impact;
+background-image: linear-gradient(gray,white);
+font-size: 1em;
+}
+.row{
+    margin: 2.5px 0px;
+}
+
+input{
+    width: 14vw;
+    height: 7vh;
+    border-radius: 10px;
+    border: 2px solid black;
+    font-size: 1.3em;
+}
+.row input{
+    width: 390px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 10px;
+    border: 2px solid black;
+    border-radius: 6px;
+}
+#Opertor{
+    background-image: linear-gradient(black,black);
+    color: white;
+
+    
+}

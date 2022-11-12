@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Array Insert In JS</title>
+</head>
+<body>
+    <script>
+        // let arr=[1,2,3,4,5,6,7,8,9,0,22,33,44,55,66,77,88,99];
+        // let ele=69;
+        // let position=3;
+        // document.write("Before Iserting => "+arr);
+        // for(let i=arr.length-1;i>=0;i--){
+        //     if(arr[i]>=position){
+        //         arr[i+1]=arr[i];
+        //         if(i==position){
+        //             arr[i]=ele;
+        //         }
+        //     }
+        // }
+        // document.write("<br> After Inserting => "+arr);
+
+          function Insert(){
+            let arr=[1,2,3,4,5,6,7,8,9,0,22,33,44,55,66,77,88,99];
+        let ele=document.getElementById("ele").value;
+        let position=document.getElementById("position").value;
+        document.write("Before Iserting => "+arr);
+        for(let i=arr.length-1;i>=0;i--){
+            if(arr[i]>=position){
+                arr[i+1]=arr[i];
+                if(i==position){
+                    arr[i]=ele;
+                }
+            }
+        }
+      document.write("<br>After inserting => "+ arr)
+        }
+    </script>
+</body>
+<input type="text"  id="ele" placeholder="Enter Element ">
+<input type="text"  id="position" placeholder="Enter Position of Elemen">
+<button onclick="Insert()">Enter</button>
+</html>

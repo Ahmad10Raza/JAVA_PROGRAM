@@ -8,6 +8,7 @@ char op=sc.next().charAt(0);
 System.out.print("Enter the two operand :");
     int num1=sc.nextInt();
     int num2=sc.nextInt();
+    sc.close();
     switch (op)
      {
       case '+':

@@ -1,0 +1,56 @@
+
+ html,body{
+    position: relative;
+   height: 100%;
+   width: 100%;
+   background-image: linear-gradient( orange,white,green);
+   background-repeat: no-repeat;
+   background-size:cover;
+}
+header{
+    padding-top: 50px;
+}
+main{
+    padding-top:40px;
+}
+.test-area{
+    margin: auto;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.meta{
+    display: flex;
+    width: 650px;
+    justify-content: space-between;
+}
+#clock{
+    padding-right:20px;
+    
+    border:1px solid black ;
+    margin: 2px;
+}
+#WordperMinut{
+    padding-right: 20px;
+    margin: 2px;
+    border:1px solid black;
+}
+#Accurate{
+    padding-right: 20px;
+    margin: 2px;
+    border:1px solid black;
+}
+.footer{
+    float: right;
+}
+#text-origin{
+    margin-bottom:50px ;
+    border: 2px solid black;
+    height: auto;
+    width: 660px;
+    background-image: linear-gradient(aqua,skyblue);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.4em;
+    
+}

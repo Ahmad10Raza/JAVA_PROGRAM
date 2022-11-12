@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:id="@+id/edtWeight"
+        android:inputType="number"
+        android:hint="@string/hint_wt"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:id="@+id/edtHeightFt"
+        android:inputType="number"
+        android:hint="@string/hint_htF"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:id="@+id/edtHeightIn"
+        android:inputType="number"
+        android:hint="@string/hint_htIn"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Caliculate BMI"
+        android:layout_marginTop="13dp"
+        android:backgroundTint="@color/purple_700"
+        android:id="@+id/btnCalculate"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtResult"
+        android:text="Result"
+        android:textSize="21sp"
+        android:textStyle="bold"
+        android:layout_marginTop="12dp"/>
+</LinearLayout>
+
+
+
+
+
+
+
+package com.example.bmicalculator;
+
+import android.os.Bundle;
+
+import com.google.android.material.snackbar.Snackbar;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.view.View;
+
+import androidx.navigation.NavController;
+import androidx.navigation.Navigation;
+import androidx.navigation.ui.AppBarConfiguration;
+import androidx.navigation.ui.NavigationUI;
+
+import com.example.bmicalculator.databinding.ActivityMainBinding;
+
+import android.view.Menu;
+import android.view.MenuItem;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
+
+public class MainActivity extends AppCompatActivity {
+@Override
+    protected void onCreate(Bundle savedInstanceState)
+{
+    super.onCreate(savedInstanceState);
+setContentView(R.layout.activity_main);
+    EditText edtWeight,edtHeight,edtHeightIn;
+    Button btnCalculate;
+    TextView txtResult;
+    edtWeight=findViewById(R.id.edtWeight);
+    edtHeight=findViewById(R.id.edtHeightFt);
+    edtHeightIn=findViewById(R.id.edtHeightIn);
+    btnCalculate=findViewById(R.id.btnCalculate);
+    txtResult=findViewById(R.id.txtResult);
+
+    btnCalculate.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+            int wt=Integer.parseInt(edtWeight.getText().toString());
+            int ft=Integer.parseInt(edtHeight.getText().toString());
+            int in=Integer.parseInt(edtHeightIn.getText().toString());
+            int totalIn=ft*12+in;
+            double totalCm=totalIn*2.53;
+            double totalM=totalCm/100;
+            double bmi=wt/(totalM*totalM);
+            if(bmi>25)
+            {
+                txtResult.setText("You're OverWeight.");
+            }
+else if(bmi<18)
+            {
+                txtResult.setText("You're UnderWeight.");
+            }
+else
+            {
+                txtResult.setText("You're Healthy.");
+            }
+        }
+    });
+}
+    }

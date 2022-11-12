@@ -1,0 +1,55 @@
+*{
+    margin: 3px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    border: 0.5rem outset black;
+    outline: 0.5rem solid blue;
+    border-radius: 12px;
+    font: bold 1rem sans-serif;
+    margin: 2rem;
+    padding: 1rem;
+    outline-offset: 0.5rem;
+}
+.content{
+    display: flex;
+margin-top: 100px;
+justify-content: space-between;
+align-items: flex-start;
+}
+#name{
+    font-size: 3cm;
+    color: red;
+}
+dob{
+    font-size: 2cm;
+    color:brown;
+} 
+img{
+    border-radius: 80%;
+    height: 400px;
+    width: 300px;
+}
+.nikola{
+    font-size: 25px;
+    color: black;
+}
+#b{
+    font-size: 35px;
+    text-align: center;
+}
+#bs,h3{
+    font-size: 40px;
+    padding: 2%;
+}
+.table{
+margin-top: -15px;
+    margin-left: 3%;
+    font-size: 30px;
+}
+.f{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
