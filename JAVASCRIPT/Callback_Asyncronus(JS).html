@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asyncronus callback Example</title>
+</head>
+<body>
+    <h1 class="heading1">  Martin Fowler</h1>
+    <h1 class="heading2">  John Johnson</h1>
+    <h1 class="heading3">  Oscar Wilde</h1>
+    <h1 class="heading4">  Coco Chanel</h1>
+    <h1 class="heading5">  Chris Heilmann</h1>
+    <h1 class="heading6">  Francis Bacon</h1>
+    <h1 class="heading7">  Nikita Popov</h1>
+    <h1 class="heading8">  Cory House</h1>
+    <h1 class="heading9">  Kent Beck</h1>
+    <h1 class="heading10"> Austin Freeman</h1>
+
+    <script>
+        const heading1 = document.querySelector(".heading1");
+        const heading2 = document.querySelector(".heading2");
+        const heading3 = document.querySelector(".heading3");
+        const heading4 = document.querySelector(".heading4");
+        const heading5 = document.querySelector(".heading5");
+        const heading6 = document.querySelector(".heading6");
+        const heading7 = document.querySelector(".heading7");
+        const heading8 = document.querySelector(".heading8");
+        const heading9 = document.querySelector(".heading9");
+        const heading10 = document.querySelector(".heading10");
+
+
+        // // callback hell  
+        // setTimeout(() => {
+        //     heading1.textContent = "fool can write code that a computer can understand. Good programmers write code thathumans can understand.";
+        //     heading1.style.color = "violet";
+        //     setTimeout(() => {
+        //         heading2.textContent = "First, solve the problem. Then, write the code.";
+        //         heading2.style.color = "purple";
+        //         setTimeout(() => {
+        //             heading3.textContent = "Experience is the name everyone gives to their mistakes.";
+        //             heading3.style.color = "red";
+        //             setTimeout(() => {
+        //                 heading4.textContent = "“ In order to be irreplaceable, one must always be different”";
+        //                 heading4.style.color = "pink";
+        //                 setTimeout(() => {
+        //                     heading5.textContent = "“Java is to Javascript what car is to Carpet.”";
+        //                     heading5.style.color = "green";
+        //                     setTimeout(() => {
+        //                         heading6.textContent = "“Knowledge is power”";
+        //                         heading6.style.color = "aqua";
+        //                         setTimeout(() => {
+        //                             heading7.textContent = "“Ruby is rubbish! PHP is phpantastic!.”";
+        //                             heading7.style.color = "yellow";
+        //                             setTimeout(() => {
+        //                                 heading8.textContent = "“ Code is like humor. When you have to explain it, it’s bad.”";
+        //                                 heading8.style.color = "blue";
+        //                                 setTimeout(() => {
+        //                                     heading9.textContent = "“Optimism is an occupational hazard of programming: feedback is the treament. “";
+        //                                     heading9.style.color = "black";
+        //                                     setTimeout(() => {
+        //                                         heading10.textContent = "Simplicity is the soul of efficiency.";
+        //                                         heading10.style.color = "orange";
+        //                                     }, 2000)
+        //                                 }, 2000)
+        //                             }, 2000)
+        //                         }, 2000)
+        //                     }, 2000)
+        //                 }, 2000)
+
+        //             }, 2000)
+
+        //         }, 2000)
+
+        //     }, 2000)
+
+        // }, 1000)
+
+
+
+        function changeText(element, text, color, time, onSuccessCallback, onFailureCallback) {
+  setTimeout(()=>{
+    if(element){
+      element.textContent = text;
+      element.style.color = color;
+      if(onSuccessCallback){
+        onSuccessCallback();
+      }
+    }else{
+      if(onFailureCallback){
+        onFailureCallback();
+      }
+    }
+  },time)
+}
+// pyramid of doom
+changeText(heading1, "“Computers are useless.  They can only give you answers.”","violet",1000,()=>{
+  changeText(heading2, "“Computers are like bikinis. They save people a lot of guesswork.”","purple",2000,()=>{
+    changeText(heading3, "“They have computers, and they may have other weapons of mass destruction.”","red",1000,()=>{
+      changeText(heading4, "“That’s what’s cool about working with computers.  They don’t argue, they remember everything, and they don’t drink all your beer.”","pink",1000,()=>{
+        changeText(heading5, "“If the automobile had followed the same development cycle as the computer, a Rolls-Royce would today cost $100, get a million miles per gallon, and explode once a year, killing everyone inside.”","green",2000,()=>{
+          changeText(heading6, "“Computers are getting smarter all the time.  Scientists tell us that soon they will be able to talk to us.  (And by ‘they’, I mean ‘computers’.  I doubt scientists will ever be able to talk to us.)”","blue",1000,()=>{
+            changeText(heading7, "“I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.”","brown",1000,()=>{
+              changeText(heading8, "“The question of whether computers can think is like the question of whether submarines can swim.”","cyan",1000,()=>{
+                changeText(heading9, "It’s ridiculous to live 100 years and only be able to remember 30 million bytes.  You know, less than a compact disc.  The human condition is really becoming more obsolete every minute.”","#cda562",1000,()=>{
+                  changeText(heading10, "“The city’s central computer told you?  R2D2, you know better than to trust a strange computer!”","dca652",1000,()=>{
+                    
+                  },()=>{console.log("Heading10 does not exist")})
+                },()=>{console.log("Heading9 does not exist")})
+              },()=>{console.log("Heading8 does not exist")})
+            },()=>{console.log("Heading7 does not exist")})
+          },()=>{console.log("Heading6 does not exist")})
+        },()=>{console.log("Heading5 does not exist")})
+      },()=>{console.log("Heading4 does not exist")})
+    },()=>{console.log("Heading3 does not exist")})
+  },()=>{console.log("Heading2 does not exist")})
+},()=>{console.log("Heading1 does not exist")})
+    </script>
+</body>
+
+</html>

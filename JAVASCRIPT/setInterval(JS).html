@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SetInterval Example</title>
+    <style>
+        button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 1rem 1.5rem;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 3rem;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.322);
+  transition: all 0.4s;
+}
+button:hover {
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.438);
+}
+    </style>
+</head>
+<body>
+    <script>
+        const body = document.body;
+const button = document.querySelector("button");
+const intervalId = setInterval(() => {
+  const red = Math.floor(Math.random() * 256);
+  const green = Math.floor(Math.random() * 256);
+  const blue = Math.floor(Math.random() * 256);
+  const rgb = `rgb(${red},${green}, ${blue})`;
+  body.style.background = rgb;
+}, 1000);
+
+button.addEventListener("click", () => {
+  clearInterval(intervalId);
+  button.textContent = body.style.background;
+});
+    </script>
+    <button>Stop ChainGing</button>
+</body>
+</html>

@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 public class Subset_String {
 public static void FindSubset(String str,String ans,int i)
 {
@@ -16,6 +16,6 @@ public static void FindSubset(String str,String ans,int i)
 
     public static void main(String[] args) {
         String str="abc";
-        FindSubset(str,"",0)
+        FindSubset(str,"",0);
     }
 }

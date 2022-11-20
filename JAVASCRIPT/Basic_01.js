@@ -9,3 +9,4 @@ console.log(var1)
 let var3="Don't think what people say about you";
 console.log(var3)
 // let var3="Error do not need to define again while using let"
+// console.log("\U0001F600")
