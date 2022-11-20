@@ -6,7 +6,17 @@ import ExpenseItem from './ExpenseItem';
 const Expenses=(props)=>{
     return (
 <div className='expenses'>
-            <ExpenseItem 
+        {
+            props.item.map(
+                expense=>(
+                    <ExpenseItem 
+            date={expense.date}
+            title={expense.title}
+            amount={expense.amount}/>
+            )
+            )
+        }
+            {/* <ExpenseItem 
             date={props.item[0].date}
             title={props.item[0].title}
             amount={props.item[0].amount}/>
@@ -21,7 +31,7 @@ const Expenses=(props)=>{
             <ExpenseItem 
             date={props.item[3].date}
             title={props.item[3].title}
-            amount={props.item[3].amount}/> 
+            amount={props.item[3].amount}/>  */}
         </div>
     );
 }

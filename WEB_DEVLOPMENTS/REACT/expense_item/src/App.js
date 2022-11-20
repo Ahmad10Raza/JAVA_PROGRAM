@@ -1,8 +1,8 @@
 import Expenses from "./Components/Expenses";
-import React from "react";
+import React,{useState} from "react";
 import NewExpense from "./Components/NewExpense/NewExpense";
 const App=()=>{
-    let expenses=[
+    let DUMMY_EXPENSE=[
         {
             id: 'e1',
             title: 'Anjali Birthday',
@@ -27,10 +27,16 @@ const App=()=>{
             amount:1100,
             date: new Date(2022,7,18)
         }
-    ]
+    ];
+            const [expenses,setExpenses]=useState(DUMMY_EXPENSE);
+
+          const addExpenseHandler=(expense)=>{
+            const updateExpense=[expense,...expenses];
+            setExpenses(updateExpense);
+          };
     return (
         <div>
-            <NewExpense/>
+            <NewExpense onAddExpense={addExpenseHandler}/>
         <Expenses item={expenses}/>
         </div>
     );
