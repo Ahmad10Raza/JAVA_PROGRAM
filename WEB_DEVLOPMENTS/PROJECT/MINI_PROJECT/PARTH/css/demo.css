@@ -28,6 +28,11 @@ html,body{
     font-weight: 300;
 
 }
+.img{
+    margin-left: 1px;
+    margin-top: 1px;
+
+}
 a {
     text-shadow: none;
     color: #0d638f;
@@ -46,14 +51,16 @@ p{
 }
 h1,p{
     position: relative;
-    margin: 2px;
-    padding-left: 90px;
-
+    margin: 3px;
+    margin-top: -7px;
+    padding-left: 4px;
 }
+
 .demo {
     width: 1355px;
     margin: 0px auto;
     color: #FFF;
+    /* justify-content: flex-start; */
 }
 
 .options {
@@ -63,7 +70,7 @@ h1,p{
 }
 
 .options h3 {
-    font-size: 20px;
+    font-size: 20px;    
 }
 
 .options a {
