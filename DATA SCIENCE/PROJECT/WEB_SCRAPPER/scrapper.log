@@ -1,0 +1,528 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.148.222:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.148.26 - - [22/Feb/2023 14:37:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.148.26 - - [22/Feb/2023 14:37:34] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.148.26 - - [22/Feb/2023 14:37:34] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.148.222 - - [22/Feb/2023 14:39:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.148.222 - - [22/Feb/2023 14:39:08] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.148.222 - - [22/Feb/2023 14:39:08] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.148.222 - - [22/Feb/2023 14:39:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.135:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 450-022-512
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2023 14:45:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2023 14:45:35] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2023 14:45:35] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'realme8', 'Name': 'Aman  Kumar', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Camera is pretty good , if you know how to use it (only primary camera is useful). I do not recommend it for heavy gaming and battery backup is aslo good .'}, {'Product': 'realme8', 'Name': 'Achyut Patil', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "Don't go to negative review, this device is working very smoothly and no problem faced yet . Camera is also decent , battery charging very fast and superb battery backup, for performance it is excellent"}, {'Product': 'realme8', 'Name': 'D Gokul  Kanna', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Great mobile with ample features for this price range. Worth the money. Camera clarity improved after updates.'}, {'Product': 'realme8', 'Name': 'Jitendra  Bhavsar', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': 'Nice realme.4 star camera.5 star battery.5 star super amoled display. 4 star look.4 star sound quality.5 star clean ui. No third party push notifications.5 star fingerprint scanner in display is too good .no over heating problem.'}, {'Product': 'realme8', 'Name': 'Tribangshu  Adhikary', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': "Photos with both the primary and selfie cameras are unusually enhanced (as you can see in the photo the green is just looking unnaturally bright) and there is no way to switch this effect offOverall a decent product with good in-hand feel and good charging speedGot the phone for my father, he seemed to have liked it a lot... specially the Display is bright with good customisationsAt this price point if camera is not your primary requirement I think it's a decent purchase."}, {'Product': 'realme8', 'Name': 'Nasir Mallick', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': "Value for money phone. Best thing is thickness and weight of the device, very light weight having 5000mah battery. Comfortable to use. Camera is decent considering the price. Powerful processor, didn't feel any lag so far. Fast charging. Overall, good quality phone."}, {'Product': 'realme8', 'Name': 'Shobhit Shekhar', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': "Hello people, I received my realme 8 6gb black color on 7th of June and writing this review on 11th june.... First of all, the firm factor is excellent and phone is quite handy...... The display ka awesome.... Battery backup is good enough..... And it gets charged very quickly.... Now, coming to the camera part, it is also nice. Don't know why ppl are complaining about... But, the video was not stable initially. But after the a. 13 update, many of the bugs related to camera r fixed. The vide..."}, {'Product': 'realme8', 'Name': 'Ravina Mistry', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': "My own experience with Flipcart, its  very amazing... I am so happy  😊....  Superb phone... Nice camera... Nice working.... Outstanding performance... Guy's go for it... Thank you Flipcart... 👍👌"}, {'Product': 'realme8', 'Name': 'GAURAV AWANA', 'Rating': '3', 'CommentHead': 'Does the job', 'Comment': "After using 2 weeks I can say that this is best mobile in this prize range, comes with Grate Looks, 30 watt fast charger,5000mah battery,on screen fingerprint etc. But it has some issues like 1. The fingerprint scanner is slow2. Camera is not that Good3. Has some issues while Playing Games.4. Unstable RAM5. Sometimes it's microphone did not work6. The back side is to sensitive Other wise phone is good.It like it......😊☺️"}, {'Product': 'realme8', 'Name': 'Suresh  Ns ', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': "A decent product from realme price little bit high but they compensate with features like indispaly finger print like.i am very much happy and camera given very true pictures except low light.light weight and good look.I am a redmi user previous.Honestly told it's near stock android no unwanted app and adds I am very much happy about it as previously experience from redmi.Very good choice and camera you have to choose correct settings more filters available and it's true images are delivere..."}, {'Product': 'realme8', 'Name': 'Suresh  Ns ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "A decent product from realme price little bit high but they compensate with features like indispaly finger print like.i am very much happy and camera given very true pictures except low light.light weight and good look.I am a redmi user previous.Honestly told it's near stock android no unwanted app and adds I am very much happy about it as previously experience from redmi.Very good choice and camera you have to choose correct settings more filters available and it's true images are delivere..."}]
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2023 14:45:46] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2023 14:45:46] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2023 14:45:46] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/blackheart/Documents/DATA SCIENCE/PROJECT/WEB_SCRAPPER/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 450-022-512
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.0.135:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.135:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2023 14:50:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2023 14:50:43] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2023 14:50:43] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2023 14:50:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2023 14:50:59] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2023 14:50:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2023 14:51:59] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'Iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'Iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'Iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'Iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'Iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'Iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'Iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'Iphone14', 'Name': 'Kunal Dhamija', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': "Totally in love with my new iphone 14. Battery backup is amazing which I never expected from Apple to be very honest.Built quality is excellent and it looks premium. Camera quality is excellent as well. True to life color reproduction, Indoor conditions amazing, night photos are good, facial tones are very good, day clicks are amazing. In short it's an amazing exp. Selfie cam also produces very good quality images."}, {'Product': 'Iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'Iphone14', 'Name': 'Ashutosh Kumar', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}]
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2023 14:52:15] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2023 14:52:15] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2023 14:52:15] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:691
+ * Running on http://10.18.0.19:691
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 144-215-957
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:00:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:01:00] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:01:00] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:01:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:01:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:01:23] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:01:23] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'Iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ..."}, {'Product': 'Iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.'}, {'Product': 'Iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.'}, {'Product': 'Iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.'}, {'Product': 'Iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!'}, {'Product': 'Iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.'}, {'Product': 'Iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.'}, {'Product': 'Iphone14', 'Name': 'Kunal Dhamija', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': "Totally in love with my new iphone 14. Battery backup is amazing which I never expected from Apple to be very honest.Built quality is excellent and it looks premium. Camera quality is excellent as well. True to life color reproduction, Indoor conditions amazing, night photos are good, facial tones are very good, day clicks are amazing. In short it's an amazing exp. Selfie cam also produces very good quality images."}, {'Product': 'Iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}, {'Product': 'Iphone14', 'Name': 'Ashutosh Kumar', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥'}]
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:02:40] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:02:41] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:02:41] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:02:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/blackheart/Documents/DATA SCIENCE/PROJECT/WEB_SCRAPPER/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 144-215-957
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:11:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:11:32] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:11:32] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out, Timeout: 30s, Topology Description: <TopologyDescription id: 63f750f8c766624d315a22d0, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out')>]>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:12:14] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:12:23] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:12:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:12:30] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:12:30] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:12:44] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:12:46] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:12:47] "GET / HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:12:47] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:12:48] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:12:48] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:12:48] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:12:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:12:55] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:12:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:name
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:name
+INFO:root:rating
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:HTTPSConnectionPool(host='www.flipkart.com', port=443): Max retries exceeded with url: /apple-iphone-14-product-red-128-gb/p/itm1f78a4e1a1d76?pid=MOBGHWFHFBJVSW22&lid=LSTMOBGHWFHFBJVSW22ERJSVZ&marketplace=FLIPKART&q=Iphone14&store=tyy%2F4io&srno=s_1_5&otracker=search&fm=organic&iid=05a3b6b0-8aa3-4e2c-9553-5342af5d6d7c.MOBGHWFHFBJVSW22.SEARCH&ppt=None&ppn=None&ssid=ehwxfxxepc0000001677152571938&qH=9d2903eb58b8d203 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9bb22adfd0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:10] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:11] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:12] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:12] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:12] "POST /review HTTP/1.1" 200 -
+INFO:root:HTTPSConnectionPool(host='www.flipkart.com', port=443): Max retries exceeded with url: /apple-iphone-14-purple-128-gb/p/itm0b581eba85e08?pid=MOBGHWFHQFSQYBFU&lid=LSTMOBGHWFHQFSQYBFUSBTOEU&marketplace=FLIPKART&q=Iphone14&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=97872b54-5b7f-4b27-a922-18dc0978baef.MOBGHWFHQFSQYBFU.SEARCH&ppt=None&ppn=None&ssid=4pfrz8ytlc0000001677152575160&qH=9d2903eb58b8d203 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9bb044f150>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:12] "POST /review HTTP/1.1" 200 -
+INFO:root:HTTPSConnectionPool(host='www.flipkart.com', port=443): Max retries exceeded with url: /apple-iphone-14-purple-128-gb/p/itm0b581eba85e08?pid=MOBGHWFHQFSQYBFU&lid=LSTMOBGHWFHQFSQYBFUSBTOEU&marketplace=FLIPKART&q=Iphone14&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=c7745760-26b9-4910-aa63-2de283f0edf0.MOBGHWFHQFSQYBFU.SEARCH&ppt=None&ppn=None&ssid=qfnzydro3k0000001677152575764&qH=9d2903eb58b8d203 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9bb03e2fd0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:12] "POST /review HTTP/1.1" 200 -
+INFO:root:HTTPSConnectionPool(host='www.flipkart.com', port=443): Max retries exceeded with url: /apple-iphone-14-purple-128-gb/p/itm0b581eba85e08?pid=MOBGHWFHQFSQYBFU&lid=LSTMOBGHWFHQFSQYBFUSBTOEU&marketplace=FLIPKART&q=Iphone14&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=612ff7e9-aec4-4cc3-8ffe-6c43b0a9f923.MOBGHWFHQFSQYBFU.SEARCH&ppt=None&ppn=None&ssid=liam95nzmo0000001677152575729&qH=9d2903eb58b8d203 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9bb027e750>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:12] "POST /review HTTP/1.1" 200 -
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:17] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:19] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:19] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out, Timeout: 30s, Topology Description: <TopologyDescription id: 63f75154c766624d315a22dc, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out')>]>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:47] "POST /review HTTP/1.1" 200 -
+INFO:root:ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out, Timeout: 30s, Topology Description: <TopologyDescription id: 63f75155c766624d315a22dd, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out')>]>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:47] "POST /review HTTP/1.1" 200 -
+INFO:root:ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out, Timeout: 30s, Topology Description: <TopologyDescription id: 63f75155c766624d315a22f5, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out')>]>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:47] "POST /review HTTP/1.1" 200 -
+INFO:root:ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out, Timeout: 30s, Topology Description: <TopologyDescription id: 63f75155c766624d315a22f6, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out')>]>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:47] "POST /review HTTP/1.1" 200 -
+INFO:root:ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out, Timeout: 30s, Topology Description: <TopologyDescription id: 63f75155c766624d315a230d, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out')>]>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:48] "POST /review HTTP/1.1" 200 -
+INFO:root:ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out, Timeout: 30s, Topology Description: <TopologyDescription id: 63f75157c766624d315a2319, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out')>]>
+INFO:root:ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out, Timeout: 30s, Topology Description: <TopologyDescription id: 63f75157c766624d315a2325, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out')>]>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:49] "POST /review HTTP/1.1" 200 -
+INFO:root:ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out, Timeout: 30s, Topology Description: <TopologyDescription id: 63f7515ac766624d315a2331, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out')>]>
+INFO:root:ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out,ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out, Timeout: 30s, Topology Description: <TopologyDescription id: 63f7515ac766624d315a233d, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-00.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-01.tgzynne.mongodb.net:27017: timed out')>, <ServerDescription ('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('ac-2ee1zgc-shard-00-02.tgzynne.mongodb.net:27017: timed out')>]>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:52] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:52] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:13:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:14:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:14:42] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:14:42] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:691
+ * Running on http://192.168.0.135:691
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 144-215-957
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:15:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:15:04] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:15:04] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:15:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:15:07] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:15:07] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:15:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:15:08] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:15:08] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:16:09] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:17:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:17:13] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:17:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:691
+ * Running on http://192.168.0.135:691
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 144-215-957
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:32:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:32:08] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:32:08] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:32:22] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/blackheart/Documents/DATA SCIENCE/PROJECT/WEB_SCRAPPER/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 144-215-957
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:33:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:33:38] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:33:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:34:03] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:34:18] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:691
+ * Running on http://192.168.0.135:691
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 144-215-957
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:35:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:35:34] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:35:34] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:35:57] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:00] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:02] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:02] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:02] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:02] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:02] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:03] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:03] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:03] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:04] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:05] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:05] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:05] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:06] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:06] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:07] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:07] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:07] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:08] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:08] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:08] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:09] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:09] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:09] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:16] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:17] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:17] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:17] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:19] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:19] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:19] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:27] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:27] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:51] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:59] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:36:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:37:24] "POST /review HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:37:25] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:37:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:37:48] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:37:48] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..', '_id': ObjectId('63f7571ee889c1fcea35ef7d')}, {'Product': 'Iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ...", '_id': ObjectId('63f7571ee889c1fcea35ef7e')}, {'Product': 'Iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.', '_id': ObjectId('63f7571ee889c1fcea35ef7f')}, {'Product': 'Iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.', '_id': ObjectId('63f7571ee889c1fcea35ef80')}, {'Product': 'Iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.', '_id': ObjectId('63f7571ee889c1fcea35ef81')}, {'Product': 'Iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!', '_id': ObjectId('63f7571ee889c1fcea35ef82')}, {'Product': 'Iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.', '_id': ObjectId('63f7571ee889c1fcea35ef83')}, {'Product': 'Iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.', '_id': ObjectId('63f7571ee889c1fcea35ef84')}, {'Product': 'Iphone14', 'Name': 'Kunal Dhamija', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': "Totally in love with my new iphone 14. Battery backup is amazing which I never expected from Apple to be very honest.Built quality is excellent and it looks premium. Camera quality is excellent as well. True to life color reproduction, Indoor conditions amazing, night photos are good, facial tones are very good, day clicks are amazing. In short it's an amazing exp. Selfie cam also produces very good quality images.", '_id': ObjectId('63f7571ee889c1fcea35ef85')}, {'Product': 'Iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥', '_id': ObjectId('63f7571ee889c1fcea35ef86')}, {'Product': 'Iphone14', 'Name': 'Ashutosh Kumar', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥', '_id': ObjectId('63f7571ee889c1fcea35ef87')}]
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:38:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:38:01] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 17:38:01] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:691
+ * Running on http://192.168.106.161:691
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 144-215-957
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:40:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:40:04] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:40:04] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:40:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'realme8', 'Name': 'MAHESH Waghmare', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'I brought realme 8 few days ago.It was amazing. All rounder smart mobile in best price. Performance is very fast. I suggest if u  want  to buy mobile this was best choice. Thank u FLIPCART.', '_id': ObjectId('63f757ac2a2b012efbbaec13')}, {'Product': 'realme8', 'Name': 'Prachi  Jagtap ', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "Very nice design 🤩🤩🤩🤩 but not better than Realme 6 u should check that's sensor is too awesome 🤩😎 and all over , Realme have to work on it and improve in Realme 9 series Realme 6 is now old but still better than two series launch after it🤫😕😑", '_id': ObjectId('63f757ac2a2b012efbbaec14')}, {'Product': 'realme8', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': "First time I bought a realme phone and I'm so happy about this product.such a sleek design and the phone is slim and stylish. The display and features are more than good enough. Only thing I felt bad is the battery I feel like less performance compare to other 5000 Mah phones but still it easily usable for 1 day. Compare to any other products in this price range realme is the perfect brand to choose. I just sold my vivo Y51 coz I was unhappy about it and bought this and I'm super happy with t...", '_id': ObjectId('63f757ac2a2b012efbbaec15')}, {'Product': 'realme8', 'Name': 'CharanEluvaka', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Awesome mobile.thanks to Flipkart for quick delivery.Smooth display, decent camera , Good ram performance. Overall good mobile with reasonable cost. Worth for money. Thanks to realme for the launch of realme 8......', '_id': ObjectId('63f757ac2a2b012efbbaec16')}, {'Product': 'realme8', 'Name': 'Zuber ahmed  Savanur', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': "Value for money camera is awesome looks good and comfortable to use. Battery back also good. It's take just 45mint to full charge from zero.", '_id': ObjectId('63f757ac2a2b012efbbaec17')}, {'Product': 'realme8', 'Name': 'Karthik Potnuru', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': "Superb mind blowing fantastic PERFORMANCE is very good highly recommended for pro players basically this phone is excellent in this price range most Affordable mobile mainly charging is very fast 30W Dart charger inbox it'll Take just 30 minutes for 50% charge and 65 to charge full.The camera quality is Simply superb.It comes with 6.4 inch Super Amoled display which gives superb graphics and 1000 nits peak brightness.It comes with Latest Android 11 superb 👌 Battery capacity is Excellent it g...", '_id': ObjectId('63f757ac2a2b012efbbaec18')}, {'Product': 'realme8', 'Name': 'Samarth Mishra', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': "everything is ok , camera is nice ,bt when we play games ,the device is getting hotter soon ,and when we charge the phone it's charger and phone both becomes much hot , look was extreme good of this device", '_id': ObjectId('63f757ac2a2b012efbbaec19')}, {'Product': 'realme8', 'Name': 'Ramesh Dodamani', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Amazing 🤩🤩🤩 Realmi 8 very good mobile phoneCamea is excellent battery backup also very niceValues of money wonderful Really I am happy so happy 😊😊', '_id': ObjectId('63f757ac2a2b012efbbaec1a')}, {'Product': 'realme8', 'Name': 'Aditya  Raj', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Very nice quality smartphone.we want to give rating for camera 4, for display 5, for built quality 3, for performance 4, for ram management 4.     Overall phone is very good in this range.Delevery is so fast. Delivery boy is very good.      So, I am very happy with flipkart.                         OK thank you', '_id': ObjectId('63f757ac2a2b012efbbaec1b')}, {'Product': 'realme8', 'Name': 'Krishnakumar Balasubramanian', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Firstly, I thank flipkart for the faster delivery. Secondly, the package is normal as previously when I got Poco X2, that was great but this time, package is okay only. The mobile is good and the model review had been done on YouTube to get it. But I felt that the Amoled screen is not that much good when compared to the Samsung A51 or 71 series but for this costings, the screen quality is okay. I had got 8GB Ram with 128GB storage variant.', '_id': ObjectId('63f757ac2a2b012efbbaec1c')}, {'Product': 'realme8', 'Name': 'Krishnakumar Balasubramanian', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Firstly, I thank flipkart for the faster delivery. Secondly, the package is normal as previously when I got Poco X2, that was great but this time, package is okay only. The mobile is good and the model review had been done on YouTube to get it. But I felt that the Amoled screen is not that much good when compared to the Samsung A51 or 71 series but for this costings, the screen quality is okay. I had got 8GB Ram with 128GB storage variant.', '_id': ObjectId('63f757ac2a2b012efbbaec1d')}]
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:40:21] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:40:22] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:40:22] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/blackheart/Documents/DATA SCIENCE/PROJECT/WEB_SCRAPPER/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 144-215-957
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:45:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:45:46] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:45:46] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:49:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:49:45] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:49:45] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:49:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:49:50] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:49:50] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:49:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:49:51] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:49:51] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:50:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:50:35] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:50:35] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:50:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:51:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:51:36] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:51:36] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:51:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:51:38] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:51:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.0.135:691
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 144-215-957
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:52:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:52:39] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:52:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:53:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:53:13] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:53:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:53:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:53:15] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:53:15] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:54:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:54:11] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:54:11] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:54:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:54:28] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:54:28] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:54:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:54:41] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:54:41] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:58:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:58:28] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.135 - - [23/Feb/2023 17:58:28] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/home/blackheart/Documents/DATA SCIENCE/PROJECT/WEB_SCRAPPER/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:691
+ * Running on http://10.19.0.19:691
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 144-215-957
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:02:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:02:45] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:02:45] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:02:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:02:45] "GET /static/bg.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:11:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:11:13] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:11:13] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:11:13] "GET /static/bg.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:11:13] "[33mGET /bg.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:11:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:11:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:11:46] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:11:46] "[33mGET /bg.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:11:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:11:47] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:11:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:11:48] "[36mGET /static/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:11:48] "[33mGET /bg.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:14:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:14:35] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:14:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:14:35] "[36mGET /static/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:14:35] "[33mGET /bg.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:16:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:16:30] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:16:30] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:16:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:16:41] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:16:41] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:16:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:16:59] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:16:59] "GET /static/style.css HTTP/1.1" 200 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:17:53] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:18:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:18:01] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:18:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:<urlopen error [Errno -2] Name or service not known>
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:18:25] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:18:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:18:34] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:18:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'realmen9', 'Name': 'Sourav Das', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Overall very good mobileGood camera best display smooth ui and very good battery backup', '_id': ObjectId('63f760c89a0f951c6011caf4')}, {'Product': 'realmen9', 'Name': 'Sayan Naskar', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': "A great phone in this segment...... The camera is better than decent, 108mp allows you to capture more details... Manual control for camera is quite good..... Display is like flagship level, great in outdoor.... Gaming performance is not that good slightly less than decent..... A good choice Daily performance or daily task usage... Best phone for students like me I'll say... If you want a phone which can handle multitasking, with a good camera,decent gaming, and best display... Go for it... A...", '_id': ObjectId('63f760c89a0f951c6011caf5')}, {'Product': 'realmen9', 'Name': 'Smriti Das', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'As expected from realme...It stands out in it🔥🔥✨..best phone in this segment... camera undoubtedly best✨ ... display is unimaginable superb display... and realme ui the best ui in the world ✨🙂 ......Overall If you are not a Gamer you can go for it it is the best for normal multimedia consumers✨🔥✨✨#Realme is the bestDare to leap🤙🤙', '_id': ObjectId('63f760c89a0f951c6011caf6')}, {'Product': 'realmen9', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Its a great mobile at current time in this budget..What a display it is! Such a marvelous quality...I love so much 🤩🤩', '_id': ObjectId('63f760c89a0f951c6011caf7')}, {'Product': 'realmen9', 'Name': 'Mohammad Ashraf  Shamim', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'The phone is awesome and there are so many features in this phone which makes life easier  and After update camera gets better and some frame drops are found I hope realme will fix this with the update.', '_id': ObjectId('63f760c89a0f951c6011caf8')}, {'Product': 'realmen9', 'Name': 'Mayank Shrivastava', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'very nice awesome 😍😍 nice handy feel battrey backup display performance looks everything is amazing', '_id': ObjectId('63f760c89a0f951c6011caf9')}, {'Product': 'realmen9', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': "Look selfie camera is totally worst ... And the back camera is awesome 😎 ... I am reviewing it after 12 day experience .... Under price is ohkk ohkk .. and the Bluetooth sound is not good ... ..... Totally the mean is it needs more improvement in camera and Bluetooth sound ... That's all", '_id': ObjectId('63f760c89a0f951c6011cafa')}, {'Product': 'realmen9', 'Name': 'Anmol Jalan', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': "Camera is good but it needs some bugs to be fixed.Display is very classy and colours are so elegant and bright . If you get this phone at a lower price then it's features are  more than enough. satisfied with the phone...if you are searching for a camera centric phone..and your budget is a little high then...go for another phone...camera is little grainy... performance wise pretty good but not as expected", '_id': ObjectId('63f760c89a0f951c6011cafb')}, {'Product': 'realmen9', 'Name': 'YASH ROY', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': 'Impressive device , best in class display and camera , great UI experience , color os is far better than MIUI', '_id': ObjectId('63f760c89a0f951c6011cafc')}, {'Product': 'realmen9', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': "An affordable handset with a good main camera, strong battery life and a good screen. It also comes with 5G connectivity, and the performance levels aren't blistering, but it's still a great value buy. I really liked this phone. I will give 10 marks out of 10. Thanks realme and flipkard....️", '_id': ObjectId('63f760c89a0f951c6011cafd')}, {'Product': 'realmen9', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "An affordable handset with a good main camera, strong battery life and a good screen. It also comes with 5G connectivity, and the performance levels aren't blistering, but it's still a great value buy. I really liked this phone. I will give 10 marks out of 10. Thanks realme and flipkard....️", '_id': ObjectId('63f760c89a0f951c6011cafe')}]
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:19:13] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:19:14] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:19:14] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:21:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:21:19] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:21:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result [{'Product': 'realmen9', 'Name': 'Sourav Das', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Overall very good mobileGood camera best display smooth ui and very good battery backup', '_id': ObjectId('63f761459a0f951c6011cb00')}, {'Product': 'realmen9', 'Name': 'Sayan Naskar', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': "A great phone in this segment...... The camera is better than decent, 108mp allows you to capture more details... Manual control for camera is quite good..... Display is like flagship level, great in outdoor.... Gaming performance is not that good slightly less than decent..... A good choice Daily performance or daily task usage... Best phone for students like me I'll say... If you want a phone which can handle multitasking, with a good camera,decent gaming, and best display... Go for it... A...", '_id': ObjectId('63f761459a0f951c6011cb01')}, {'Product': 'realmen9', 'Name': 'Smriti Das', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'As expected from realme...It stands out in it🔥🔥✨..best phone in this segment... camera undoubtedly best✨ ... display is unimaginable superb display... and realme ui the best ui in the world ✨🙂 ......Overall If you are not a Gamer you can go for it it is the best for normal multimedia consumers✨🔥✨✨#Realme is the bestDare to leap🤙🤙', '_id': ObjectId('63f761459a0f951c6011cb02')}, {'Product': 'realmen9', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Its a great mobile at current time in this budget..What a display it is! Such a marvelous quality...I love so much 🤩🤩', '_id': ObjectId('63f761459a0f951c6011cb03')}, {'Product': 'realmen9', 'Name': 'Mohammad Ashraf  Shamim', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'The phone is awesome and there are so many features in this phone which makes life easier  and After update camera gets better and some frame drops are found I hope realme will fix this with the update.', '_id': ObjectId('63f761459a0f951c6011cb04')}, {'Product': 'realmen9', 'Name': 'Mayank Shrivastava', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'very nice awesome 😍😍 nice handy feel battrey backup display performance looks everything is amazing', '_id': ObjectId('63f761459a0f951c6011cb05')}, {'Product': 'realmen9', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': "Look selfie camera is totally worst ... And the back camera is awesome 😎 ... I am reviewing it after 12 day experience .... Under price is ohkk ohkk .. and the Bluetooth sound is not good ... ..... Totally the mean is it needs more improvement in camera and Bluetooth sound ... That's all", '_id': ObjectId('63f761459a0f951c6011cb06')}, {'Product': 'realmen9', 'Name': 'Anmol Jalan', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': "Camera is good but it needs some bugs to be fixed.Display is very classy and colours are so elegant and bright . If you get this phone at a lower price then it's features are  more than enough. satisfied with the phone...if you are searching for a camera centric phone..and your budget is a little high then...go for another phone...camera is little grainy... performance wise pretty good but not as expected", '_id': ObjectId('63f761459a0f951c6011cb07')}, {'Product': 'realmen9', 'Name': 'YASH ROY', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': 'Impressive device , best in class display and camera , great UI experience , color os is far better than MIUI', '_id': ObjectId('63f761459a0f951c6011cb08')}, {'Product': 'realmen9', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': "An affordable handset with a good main camera, strong battery life and a good screen. It also comes with 5G connectivity, and the performance levels aren't blistering, but it's still a great value buy. I really liked this phone. I will give 10 marks out of 10. Thanks realme and flipkard....️", '_id': ObjectId('63f761459a0f951c6011cb09')}, {'Product': 'realmen9', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "An affordable handset with a good main camera, strong battery life and a good screen. It also comes with 5G connectivity, and the performance levels aren't blistering, but it's still a great value buy. I really liked this phone. I will give 10 marks out of 10. Thanks realme and flipkard....️", '_id': ObjectId('63f761459a0f951c6011cb0a')}]
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:21:20] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'realmen9', 'Name': 'Sourav Das', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Overall very good mobileGood camera best display smooth ui and very good battery backup', '_id': ObjectId('63f761569a0f951c6011cb0c')}, {'Product': 'realmen9', 'Name': 'Sayan Naskar', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': "A great phone in this segment...... The camera is better than decent, 108mp allows you to capture more details... Manual control for camera is quite good..... Display is like flagship level, great in outdoor.... Gaming performance is not that good slightly less than decent..... A good choice Daily performance or daily task usage... Best phone for students like me I'll say... If you want a phone which can handle multitasking, with a good camera,decent gaming, and best display... Go for it... A...", '_id': ObjectId('63f761569a0f951c6011cb0d')}, {'Product': 'realmen9', 'Name': 'Smriti Das', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'As expected from realme...It stands out in it🔥🔥✨..best phone in this segment... camera undoubtedly best✨ ... display is unimaginable superb display... and realme ui the best ui in the world ✨🙂 ......Overall If you are not a Gamer you can go for it it is the best for normal multimedia consumers✨🔥✨✨#Realme is the bestDare to leap🤙🤙', '_id': ObjectId('63f761569a0f951c6011cb0e')}, {'Product': 'realmen9', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Its a great mobile at current time in this budget..What a display it is! Such a marvelous quality...I love so much 🤩🤩', '_id': ObjectId('63f761569a0f951c6011cb0f')}, {'Product': 'realmen9', 'Name': 'Mohammad Ashraf  Shamim', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'The phone is awesome and there are so many features in this phone which makes life easier  and After update camera gets better and some frame drops are found I hope realme will fix this with the update.', '_id': ObjectId('63f761569a0f951c6011cb10')}, {'Product': 'realmen9', 'Name': 'Mayank Shrivastava', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'very nice awesome 😍😍 nice handy feel battrey backup display performance looks everything is amazing', '_id': ObjectId('63f761569a0f951c6011cb11')}, {'Product': 'realmen9', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': "Look selfie camera is totally worst ... And the back camera is awesome 😎 ... I am reviewing it after 12 day experience .... Under price is ohkk ohkk .. and the Bluetooth sound is not good ... ..... Totally the mean is it needs more improvement in camera and Bluetooth sound ... That's all", '_id': ObjectId('63f761569a0f951c6011cb12')}, {'Product': 'realmen9', 'Name': 'Anmol Jalan', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': "Camera is good but it needs some bugs to be fixed.Display is very classy and colours are so elegant and bright . If you get this phone at a lower price then it's features are  more than enough. satisfied with the phone...if you are searching for a camera centric phone..and your budget is a little high then...go for another phone...camera is little grainy... performance wise pretty good but not as expected", '_id': ObjectId('63f761569a0f951c6011cb13')}, {'Product': 'realmen9', 'Name': 'YASH ROY', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': 'Impressive device , best in class display and camera , great UI experience , color os is far better than MIUI', '_id': ObjectId('63f761569a0f951c6011cb14')}, {'Product': 'realmen9', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': "An affordable handset with a good main camera, strong battery life and a good screen. It also comes with 5G connectivity, and the performance levels aren't blistering, but it's still a great value buy. I really liked this phone. I will give 10 marks out of 10. Thanks realme and flipkard....️", '_id': ObjectId('63f761569a0f951c6011cb15')}, {'Product': 'realmen9', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "An affordable handset with a good main camera, strong battery life and a good screen. It also comes with 5G connectivity, and the performance levels aren't blistering, but it's still a great value buy. I really liked this phone. I will give 10 marks out of 10. Thanks realme and flipkard....️", '_id': ObjectId('63f761569a0f951c6011cb16')}]
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:21:35] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:21:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:21:35] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:28:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:28:38] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:28:38] "GET /static/style.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'realmen9', 'Name': 'Sourav Das', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Overall very good mobileGood camera best display smooth ui and very good battery backup', '_id': ObjectId('63f7632c9a0f951c6011cb18')}, {'Product': 'realmen9', 'Name': 'Sayan Naskar', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': "A great phone in this segment...... The camera is better than decent, 108mp allows you to capture more details... Manual control for camera is quite good..... Display is like flagship level, great in outdoor.... Gaming performance is not that good slightly less than decent..... A good choice Daily performance or daily task usage... Best phone for students like me I'll say... If you want a phone which can handle multitasking, with a good camera,decent gaming, and best display... Go for it... A...", '_id': ObjectId('63f7632c9a0f951c6011cb19')}, {'Product': 'realmen9', 'Name': 'Smriti Das', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'As expected from realme...It stands out in it🔥🔥✨..best phone in this segment... camera undoubtedly best✨ ... display is unimaginable superb display... and realme ui the best ui in the world ✨🙂 ......Overall If you are not a Gamer you can go for it it is the best for normal multimedia consumers✨🔥✨✨#Realme is the bestDare to leap🤙🤙', '_id': ObjectId('63f7632c9a0f951c6011cb1a')}, {'Product': 'realmen9', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Its a great mobile at current time in this budget..What a display it is! Such a marvelous quality...I love so much 🤩🤩', '_id': ObjectId('63f7632c9a0f951c6011cb1b')}, {'Product': 'realmen9', 'Name': 'Mohammad Ashraf  Shamim', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'The phone is awesome and there are so many features in this phone which makes life easier  and After update camera gets better and some frame drops are found I hope realme will fix this with the update.', '_id': ObjectId('63f7632c9a0f951c6011cb1c')}, {'Product': 'realmen9', 'Name': 'Mayank Shrivastava', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'very nice awesome 😍😍 nice handy feel battrey backup display performance looks everything is amazing', '_id': ObjectId('63f7632c9a0f951c6011cb1d')}, {'Product': 'realmen9', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': "Look selfie camera is totally worst ... And the back camera is awesome 😎 ... I am reviewing it after 12 day experience .... Under price is ohkk ohkk .. and the Bluetooth sound is not good ... ..... Totally the mean is it needs more improvement in camera and Bluetooth sound ... That's all", '_id': ObjectId('63f7632c9a0f951c6011cb1e')}, {'Product': 'realmen9', 'Name': 'Anmol Jalan', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': "Camera is good but it needs some bugs to be fixed.Display is very classy and colours are so elegant and bright . If you get this phone at a lower price then it's features are  more than enough. satisfied with the phone...if you are searching for a camera centric phone..and your budget is a little high then...go for another phone...camera is little grainy... performance wise pretty good but not as expected", '_id': ObjectId('63f7632c9a0f951c6011cb1f')}, {'Product': 'realmen9', 'Name': 'YASH ROY', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': 'Impressive device , best in class display and camera , great UI experience , color os is far better than MIUI', '_id': ObjectId('63f7632c9a0f951c6011cb20')}, {'Product': 'realmen9', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': "An affordable handset with a good main camera, strong battery life and a good screen. It also comes with 5G connectivity, and the performance levels aren't blistering, but it's still a great value buy. I really liked this phone. I will give 10 marks out of 10. Thanks realme and flipkard....️", '_id': ObjectId('63f7632c9a0f951c6011cb21')}, {'Product': 'realmen9', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "An affordable handset with a good main camera, strong battery life and a good screen. It also comes with 5G connectivity, and the performance levels aren't blistering, but it's still a great value buy. I really liked this phone. I will give 10 marks out of 10. Thanks realme and flipkard....️", '_id': ObjectId('63f7632c9a0f951c6011cb22')}]
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:29:31] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:30:04] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:30:04] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:30:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:48:03] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:48:03] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:48:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:48:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:48:11] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:48:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/home/blackheart/Documents/DATA SCIENCE/PROJECT/WEB_SCRAPPER/app.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:692
+ * Running on http://192.168.106.99:692
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 189-334-872
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:56:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:56:53] "GET /static/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:56:53] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:56:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..', '_id': ObjectId('63f769d7496b397b7b4c47db')}, {'Product': 'Iphone14', 'Name': 'Sankhadip Mazumder', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "It's a apple device .. that means you get the good old ios . No performance issue , supper ram and power management . My slightly distasteful remark would be on its camera . Dont get me wrong , its great but the colors seems to be vibrant by default which I'm not really a fan of. Also the low light performance of the front camera is not that sharp . I used to own a pixel 3 and its front camera output seems to be better than iphone 13's . But overall the camera is good and it will do the job. ...", '_id': ObjectId('63f769d7496b397b7b4c47dc')}, {'Product': 'Iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Excellent smart phone, Good battery backup and performance is very good, Good camera quality.', '_id': ObjectId('63f769d7496b397b7b4c47dd')}, {'Product': 'Iphone14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Damn such a great phone. Camera is really good, battery lasts long enough, super smooth even though its just 60 hz XDR display. Videos with action mode on are insanely stable and crisp.The whole apple environment itself is so seamless. I shifted from android to iPhone and it barely took any time since I had iPad and a mac already. With a just a few clicks the phone was ready to go.', '_id': ObjectId('63f769d7496b397b7b4c47de')}, {'Product': 'Iphone14', 'Name': 'Feecon Behera', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Just awesome!!I switch to iPhone 14 from iPhone 12. The powerful chipset gives you smooth performance. No lags, no fancy UI, just delivers the best of it. Camera is best. Battery giving a full day. Speaker sounds wide and clear. Must buy!!', '_id': ObjectId('63f769d7496b397b7b4c47df')}, {'Product': 'Iphone14', 'Name': 'Samaresh  Tikader', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Happy to have iPhone 14. Wonderful phone specially because of Powerful camera😍, perfect screen size and potentially battery life make it worthy.', '_id': ObjectId('63f769d7496b397b7b4c47e0')}, {'Product': 'Iphone14', 'Name': 'Sunder Singh ', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'I am so happy to have first time i phone 14. My experience is outstanding to have this phone.But i wanted to have i phone 18 fortunately i have this now.', '_id': ObjectId('63f769d7496b397b7b4c47e1')}, {'Product': 'Iphone14', 'Name': 'sagar dimble', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'camera is not as expected at evening as pictures are so dull and not bright.so much dissipointed when compare camera even with s21fe or one plus nord or other premium phones.at bright sunlight or in a bright light at night pictures are so good in portrait mode.selfies in low light are terrible. looks like camera under 10k phone.battery is good and last for day easily.performance is so good.display may be if 90hz it will be good at this price range.', '_id': ObjectId('63f769d7496b397b7b4c47e2')}, {'Product': 'Iphone14', 'Name': 'Kunal Dhamija', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': "Totally in love with my new iphone 14. Battery backup is amazing which I never expected from Apple to be very honest.Built quality is excellent and it looks premium. Camera quality is excellent as well. True to life color reproduction, Indoor conditions amazing, night photos are good, facial tones are very good, day clicks are amazing. In short it's an amazing exp. Selfie cam also produces very good quality images.", '_id': ObjectId('63f769d7496b397b7b4c47e3')}, {'Product': 'Iphone14', 'Name': 'Ashutosh Kumar', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥', '_id': ObjectId('63f769d7496b397b7b4c47e4')}, {'Product': 'Iphone14', 'Name': 'Ashutosh Kumar', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Great phone with great capabilities 🔥Excellent camera 📸Processor same as my 13pro New blue colour is awesome ❤️I have :- 14pro . 13pro . 12. 12mini . Also new this one iphone 14 . One thing is common in all have , there is no lag till the date. The one thing I always said it is what it is🔥🔥', '_id': ObjectId('63f769d7496b397b7b4c47e5')}]
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:57:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:57:54] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2023 18:57:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
